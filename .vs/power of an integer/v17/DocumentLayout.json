@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\power of an integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6AE19-DDC5-4A21-9DAB-77D9708FE4DA}|power of an integer\\power of an integer.vcxproj|C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\power of an integer\\power of an integer\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAE6AE19-DDC5-4A21-9DAB-77D9708FE4DA}|power of an integer\\power of an integer.vcxproj|solutionrelative:power of an integer\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\power of an integer\\power of an integer\\Source.c",
+              "RelativeDocumentMoniker": "power of an integer\\Source.c",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\power of an integer\\power of an integer\\Source.c",
+              "RelativeToolTip": "power of an integer\\Source.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-10T17:34:54.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
